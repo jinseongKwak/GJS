@@ -1,0 +1,20 @@
+.wrap {
+  display: flex;
+}
+.wrap header {
+  border: 1px solid #ccc;
+}
+.box {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+main {
+  padding: 20px;
+}
+main #section-header {
+  position: relative;
+}
+
+/*# sourceMappingURL=style.css.map */
